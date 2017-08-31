@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutDemo</string>
+    <string name="floating_beahavior">com.coordinator.weight.FloatingBeahavior</string>
+    <string name="trans_floating_Beahavior">com.coordinator.weight.TransFloatingBeahavior</string>
+</resources>
